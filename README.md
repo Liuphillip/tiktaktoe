@@ -1,5 +1,5 @@
 # tiktaktoe
 Simple Tik Tak Toe game made in c++
 
-#Contributors
+# Contributors
 Phillip Liu
